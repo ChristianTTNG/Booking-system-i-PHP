@@ -1,0 +1,9 @@
+.form{width: 280px; margin: auto; padding: 12px;}
+   h2{color: purple; text-align: center;}
+   input{padding: 12px; width: 100%; margin-bottom: 12px; border: 0px;
+      border-radius: 6px; background-color: #ccc;}
+   button{margin: 14px 0px; width: 100%; background-color: #008080; color: white;
+      padding: 12px; font-size: 1rem; border-radius: 6px;}
+   p{text-align: center;}
+   button:hover{cursor: pointer;}
+   .red{text-align: center; color: red;}
